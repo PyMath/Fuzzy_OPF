@@ -1,0 +1,2 @@
+# Fuzzy_OPF
+Fuzzy Optimum- Path Forest, an improved version of the standard OPF classifier that learns the samples’ membership in an unsupervised fashion, which are further incorporated during supervised training. Such information is used to identify the most relevant training samples, thus improving the classification step. Experiments conducted over twelve public datasets highlight the robustness of the proposed approach, which behaves similarly to standard OPF in worst-case scenarios.
